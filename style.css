@@ -2,7 +2,7 @@ body{
     background-color: black;
     font-family: Arial, sans-serif;
     text-align: center;
-    background-image: url("images/static3.gif");
+    background-image: url("Images/static3.gif");
     
     .box{
         
@@ -104,6 +104,7 @@ body{
     text-align: center;
     text-transform: uppercase;
 }
+
 
 
 
