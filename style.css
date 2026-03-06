@@ -96,8 +96,9 @@ body{
 
 .Music{
     position:absolute;
-    top: 1000px;
+    top: 1100px;
     left: 1123px;
+    z-index: 6;
 }
 
 .art_head{
@@ -105,6 +106,9 @@ body{
     text-transform: uppercase;
 }
 
+.goback_art{
+    color:aliceblue;
+}
 
 
 
