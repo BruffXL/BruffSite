@@ -68,7 +68,7 @@ body{
 
 }*/
 
-.Artwork{
+.artwork{
     text-align: left; 
     position:absolute;
     top:600px;
@@ -166,6 +166,7 @@ body{
 .scene {
     transform: translateY(-300px);
 }
+
 
 
 
